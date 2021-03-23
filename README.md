@@ -2,8 +2,8 @@
 
 <h4 align="left">Technologies Used:<h4>
 
-- Html
+- Html 
 
-- Bootstrap
+- Bootstrap 5 - https://getbootstrap.com/
 
-- Fontawesome
+- Fontawesome - https://fontawesome.com/
