@@ -1,6 +1,6 @@
 # <h3 align = "center">Porfolio</h3>
 
-- http://mauriciocdportfolio.online/
+- http://mauriciodportfolio.online/
 
 
 <h4 align="left">Technologies Used:<h4>
